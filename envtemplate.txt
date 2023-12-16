@@ -1,0 +1,3 @@
+PORT = 5001
+MONGODB_URI = "mongodb+srv://faizankango:utophorianetwork@cluster0.5bcvgps.mongodb.net/?retryWrites=true&w=majority"
+SECRET = "AgarAnTurkSheeraziBasadAyadDileMara"
